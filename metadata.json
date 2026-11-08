@@ -1,0 +1,6 @@
+{
+  "name": "ElectroNova - Electrodomésticos Inteligentes",
+  "description": "Catálogo premium de electrodomésticos con buscador, filtros avanzados por marca, precio y eficiencia, comparador técnico y carrito de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
